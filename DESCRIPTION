@@ -1,0 +1,10 @@
+Package: FSM
+Title: Finite Selection Model (FSM)
+Version: 1.0.0
+Authors@R: person("Ambarish", "Chattopadhyay", email = "ambarish_chattopadhyay@g.harvard.edu", role = c("aut", "cre"))
+Description: R package for randomized and balanced allocation of units to treatment groups using the Finite Selection Model.
+Depends: R (>= 3.4.3)
+License: None
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
